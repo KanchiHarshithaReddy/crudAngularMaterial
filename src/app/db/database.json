@@ -1,0 +1,57 @@
+{
+  "productList": [
+    {
+      "productName": "kiwi",
+      "category": "Fruits",
+      "fresh": "Brand new",
+      "price": 30,
+      "comment": "quality product",
+      "id": 1
+    },
+    {
+      "productName": "kiwi",
+      "category": "Fruits",
+      "date": "2022-03-03T18:30:00.000Z",
+      "fresh": "one Week",
+      "price": 60,
+      "comment": "kiwi",
+      "id": 2
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "date": "2022-03-02T18:30:00.000Z",
+      "fresh": "one Week",
+      "price": 45,
+      "comment": "apple",
+      "id": 3
+    },
+    {
+      "productName": "mobile",
+      "category": "Vegetables",
+      "date": "2022-03-02T18:30:00.000Z",
+      "fresh": "oneMonth",
+      "price": 100000,
+      "comment": "mobile",
+      "id": 4
+    },
+    {
+      "productName": "mhjhm",
+      "category": "Vegetables",
+      "date": "2022-03-02T18:30:00.000Z",
+      "fresh": "one Week",
+      "price": 67,
+      "comment": "jfgjmgj",
+      "id": 5
+    },
+    {
+      "productName": "hgjg",
+      "category": "Vegetables",
+      "date": "2022-03-01T18:30:00.000Z",
+      "fresh": "one Week",
+      "price": 67,
+      "comment": "nfjnfh",
+      "id": 6
+    }
+  ]
+}
